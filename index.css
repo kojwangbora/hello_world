@@ -2,5 +2,12 @@
     font: optional;
     font-size: large;
     font-variant: normal;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospac;
+}
+.nav{
+    font: optional;
+    font-size: large;
+    font-variant: normal;
+    font-family: 'Courier New', Courier, monospac
+
 }
