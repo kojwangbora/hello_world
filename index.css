@@ -18,7 +18,7 @@
 
 }
 .h1{
-    color: blue;
+    color: darkred;
     text-align: center;
 
 }
@@ -28,9 +28,11 @@
     color: teal;
 }
 p{
-    color:gray;
+    color:crimson;
 
 }
 body{
-    background-color: skyblue;
+    background-color: salmon;
+    font-family: sans-serif;
+    text-align: center;
 }
