@@ -17,3 +17,20 @@
     font-family: 'Courier New', Courier, monospac
 
 }
+.h1{
+    color: blue;
+    text-align: center;
+
+}
+.h2{
+    font-size: italic;
+    text-align: center;
+    color: teal;
+}
+p{
+    color:gray;
+
+}
+body{
+    background-color: skyblue;
+}
